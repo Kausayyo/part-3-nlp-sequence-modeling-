@@ -32,14 +32,7 @@ part-3-nlp-sequence-modeling/
     └── sample_predictions.txt
 ```
 
-## How to Run
 
-```bash
-pip install -r requirements.txt
-python notebook.py
-```
-
-All output charts and tables will be saved to the `results/` directory automatically.
 
 ## Tasks Covered
 
