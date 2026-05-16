@@ -1,0 +1,3 @@
+Model,Accuracy,Macro F1
+Naive Bayes (BoW),1.0,1.0
+Logistic Regression (TF-IDF),1.0,1.0

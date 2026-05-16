@@ -1,0 +1,6 @@
+Experiment,Architecture,Activation,Learning Rate,Accuracy,Macro F1
+Exp 1 — Baseline (100),"(100,)",relu,0.001,1.0,1.0
+"Exp 2 — Deeper (128, 64)","(128, 64)",relu,0.001,1.0,1.0
+Exp 3 — Higher LR (0.01),"(128, 64)",relu,0.01,1.0,1.0
+Exp 4 — Lower LR (0.0001),"(128, 64)",relu,0.0001,1.0,1.0
+Exp 5 — Tanh activation,"(128, 64)",tanh,0.001,1.0,1.0

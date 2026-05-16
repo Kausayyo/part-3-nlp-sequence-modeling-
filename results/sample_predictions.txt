@@ -1,0 +1,11 @@
+customer_message	sentiment_label	predicted_sentiment	correct
+Billing is incorrect and I was charged twice this month. My ticket number is 29285.	negative	negative	True
+The product quality is bad and I regret purchasing it.	negative	negative	True
+I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.	negative	negative	True
+Please tell me how to update my account details.	neutral	neutral	True
+The app crashes whenever I try to use profile update.	negative	negative	True
+The app crashes whenever I try to use analytics.	negative	negative	True
+I need information about the payment process. Please respond as soon as possible.	neutral	neutral	True
+The product quality is bad and I regret purchasing it.	negative	negative	True
+Please provide the steps to activate analytics. My ticket number is 87010.	neutral	neutral	True
+The internet speed is slow and customer care is not helping.	negative	negative	True
